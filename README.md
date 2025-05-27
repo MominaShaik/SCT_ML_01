@@ -33,8 +33,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
+    git clone https://github.com/MominaShaik/SCT_ML_01.git
+    cd SCT_ML_01
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
